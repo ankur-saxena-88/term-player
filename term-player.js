@@ -62,6 +62,7 @@ async function displayMetaInfo(filePath) {
   console.clear();
   console.log(`🎶 Now Playing: ${tags.title || filename}`);
   console.log(`🎤 Artist: ${tags.artist || 'Unknown'}`);
+  console.log(`🎤 Composer: ${tags.composer || 'Unknown'}`);
   console.log(`💽 Album: ${tags.album || 'N/A'}`);
   console.log('───────────────────────────────────────────────');
 }
