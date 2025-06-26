@@ -148,7 +148,7 @@ Happy Coding and Happy Listening!
 ---
 
 ## 📫 Connect with Me
-- GitHub: @ankur-saxena-88
+- GitHub: @ankur-saxena-88[https://github.com/ankur-saxena-88/]
 - Email: author88ankur@outlook.com
 - Project hashtag: #TerminalMusicPlayer
 
