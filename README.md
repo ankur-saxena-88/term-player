@@ -4,6 +4,9 @@ A clean and simple command-line music player made for Windows users who love to 
 
 ---
 
+![Terminal Music Player Screenshot](assets/screenshot1.png)
+![Terminal Music Player Screenshot](assets/screenshot2.png)
+
 ## 📜 Introduction
 
 One day, while dealing with some health-related struggles and feeling a little low, I randomly stumbled upon a tech creator’s vlog on YouTube. She was showcasing a terminal-based music player that runs inside Linux. Something about it deeply clicked with me.
